@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ticoabc
+- 👋 Hi, I’m Tiago de Freitas
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java and MySQL
 - 💞️ I’m looking to collaborate whit everyone
