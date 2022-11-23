@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tiago de Freitas
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java and MySQL
+- 👀 I’m interested in backend programming
+- 🌱 I’m currently learning Java; MySQLi; PHP;  Python
 - 💞️ I’m looking to collaborate whit everyone
 - 📫 tiagoabc@gmail.com
 
