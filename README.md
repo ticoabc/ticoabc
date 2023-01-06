@@ -1,6 +1,6 @@
 
-### Olá pessoal meu nome é Tiago ✋🏿
-### Bem-vindos a minha página 🙋🏿‍♂️
+### Olá pessoal meu nome é Tiago de Freitas✋🏿
+### Bem-vindos a minha página de aprendizado 🙋🏿‍♂️
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
