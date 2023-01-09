@@ -9,6 +9,7 @@
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ![Ticoabc GitHub stats](https://github-readme-stats.vercel.app/api?username=ticoabc&show_icons=true&theme=dark)<br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=ticoabc&theme=dark-smoky&mode=weekly)](https://git.io/streak-stats)<br />
 
 ### Tecnologias que estou aprendendo
 
