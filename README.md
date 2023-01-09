@@ -1,8 +1,8 @@
-Welcome to my learning and sharing page
+Welcome to my learning and sharing page<br />
 
-👀 I’m interested in backend programming
-🌱 I’m currently learning Java; MySQLi; PHP;  Python
-📫 tiagoabc@gmail.com
+👀 I’m interested in backend programming<br />
+🌱 I’m currently learning Java; MySQLi; PHP;  Python<br />
+📫 tiagoabc@gmail.com<br />
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
