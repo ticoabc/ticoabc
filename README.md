@@ -10,9 +10,6 @@ Welcome to my learning and sharing page<br />
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-![Ticoabc GitHub stats](https://github-readme-stats.vercel.app/api?username=ticoabc&show_icons=true&theme=dark)<br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=ticoabc&theme=dark-smoky&mode=weekly)](https://git.io/streak-stats)<br />
-
 ### Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br/>
@@ -24,6 +21,11 @@ Welcome to my learning and sharing page<br />
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />    
 </div>
+
+![Ticoabc GitHub stats](https://github-readme-stats.vercel.app/api?username=ticoabc&show_icons=true&theme=dark)<br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=ticoabc&theme=dark-smoky&mode=weekly)](https://git.io/streak-stats)<br />
+
+
 <!---
 - ### Página de Tiago de Freitas✋🏿
 - 👋 Hi, I’m Tiago de Freitas
