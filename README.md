@@ -1,6 +1,8 @@
+Welcome to my learning and sharing page
 
-### Olá pessoal meu nome é Tiago de Freitas✋🏿
-### Bem-vindos a minha página de aprendizado 🙋🏿‍♂️
+👀 I’m interested in backend programming
+🌱 I’m currently learning Java; MySQLi; PHP;  Python
+📫 tiagoabc@gmail.com
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
@@ -23,6 +25,7 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />    
 </div>
 <!---
+- ### Página de Tiago de Freitas✋🏿
 - 👋 Hi, I’m Tiago de Freitas
 - 👀 I’m interested in backend programming
 - 🌱 I’m currently learning Java; MySQLi; PHP;  Python
