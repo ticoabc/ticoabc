@@ -23,7 +23,7 @@ Welcome to my learning and sharing page<br />
 </div><br/>
 
 ![Ticoabc GitHub stats](https://github-readme-stats.vercel.app/api?username=ticoabc&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ticoabc&theme=dark-smoky&mode=weekly)](https://git.io/streak-stats)<br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=ticoabc&theme=blue-green&mode=weekly)](https://git.io/streak-stats)<br />
 
 
 <!---
