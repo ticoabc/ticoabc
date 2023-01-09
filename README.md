@@ -22,7 +22,7 @@ Welcome to my learning and sharing page<br />
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />    
 </div><br/>
 
-![Ticoabc GitHub stats](https://github-readme-stats.vercel.app/api?username=ticoabc&show_icons=blue-green&mode=weekly)
+![Ticoabc GitHub stats](https://github-readme-stats.vercel.app/api?username=ticoabc&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ticoabc&theme=blue-green&mode=weekly)](https://git.io/streak-stats)<br />
 
 
