@@ -1,13 +1,5 @@
 ### Welcome to my learning and sharing page<br />
 
-👀 I’m interested in backend programming<br />
-🌱 I’m currently learning Java; MySQLi; PHP;  Python<br />
-📫 tiagoabc@gmail.com<br />
-
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)<br />
-
 ### Technologies I'm currently learning<br/>
 
 <div style="display: inline_block"><br/>
@@ -20,6 +12,10 @@
     <img align="center" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
     <img align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div><br/>
+
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)<br />
 
 ![Ticoabc GitHub stats](https://github-readme-stats.vercel.app/api?username=ticoabc&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ticoabc&theme=dark&mode=weekly)](https://git.io/streak-stats)<br />
