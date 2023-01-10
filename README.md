@@ -19,6 +19,8 @@
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)<br />
 
+### These are my stats!<br/>
+
 ![Ticoabc GitHub stats](https://github-readme-stats.vercel.app/api?username=ticoabc&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ticoabc&theme=dark&mode=weekly)](https://git.io/streak-stats)<br />
 
