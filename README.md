@@ -1,6 +1,5 @@
 ### Welcome to my learning and sharing page<br />
-### I'm developing for Backend languages<br />
-### Technologies I'm currently learning<br/>
+### I'm studying these Backend languages<br />
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
