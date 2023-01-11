@@ -1,7 +1,7 @@
 ### 👋 Welcome to my learning and sharing page<br />
 ### 💞️ I’m looking to collaborate whit everyone
 ### 📫 tiagoabc@gmail.com
-<img align="center" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40"/>
+<img align="center" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 ### 👋 I'm studying these Backend languages<br />
 
 <div style="display: inline_block"><br/>
