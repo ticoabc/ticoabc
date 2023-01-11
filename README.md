@@ -1,7 +1,7 @@
 ### 👋 Welcome to my learning and sharing page<br />
-### 👋 I'm studying these Backend languages<br />
 ### 💞️ I’m looking to collaborate whit everyone
 ### 📫 tiagoabc@gmail.com
+### 👋 I'm studying these Backend languages<br />
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
