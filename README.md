@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tiago de Freitas</h1>
+<h1 align="center">Hi 👋🏾, I'm Tiago de Freitas</h1>
 <h3 align="center">A passionate Backend developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ticoabc&label=Profile%20views&color=0e75b6&style=flat" alt="ticoabc" /> </p>
 
-- 🔭 I’m currently working on **SpotUp - Course Completion Project (TCC)**
+- 🔨 I’m currently working on **SpotUp - Course Completion Project (TCC)**
 
-- 🌱 I’m currently learning **Backend languages**
+- 📚 I’m currently learning **Backend languages**
 
-- 👯 I’m looking to collaborate on **everyone**
+- 🏠 I’m Working **From Home**
 
-- ⚡ Fun fact **I have been quadriplegic for 8 years**
+- 😀 Fun fact **I have been ♿ quadriplegic for 8 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
