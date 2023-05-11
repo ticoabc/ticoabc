@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ticoabc&label=Profile%20views&color=0e75b6&style=flat" alt="ticoabc" /> </p>
 
-- 🔨 I’m currently working on **SpotUp - Course Completion Project (TCC)**
+- 📚 I’m currently learning **Backend languages (Java, PHP, JavaScript)**
 
-- 📚 I’m currently learning **Backend languages**
+- 📚 Next I´will learning more **Backend languages (C#, Python, Ruby)**
+ 
+- 🔨 I’m currently working on **SpotUp - Course Completion Project (TCC)**
 
 - 🏠 I’m Working **From Home**
 
