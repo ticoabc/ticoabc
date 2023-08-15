@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ticoabc&label=Profile%20views&color=0e75b6&style=flat" alt="ticoabc" /> </p>
 
-- 📚 I am currently studying Systems Development
+- 📚 I am currently studying Systems Development (EAD) Etec Jorge Street
 
 - 📚 I’m currently learning **Backend language - (Java)**
 
