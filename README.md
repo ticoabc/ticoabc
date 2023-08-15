@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ticoabc&label=Profile%20views&color=0e75b6&style=flat" alt="ticoabc" /> </p>
 
+- 📚 I am currently studying Systems Development
+
 - 📚 I’m currently learning **Backend languages (Java and PHP)**
 
 - 📚 Next I´will learning more **Backend languages (JavaScript, C#, Python, Ruby)**
  
-- 🔨 I’m currently working on **SpotUp - Course Completion Project (TCC)**
+- 🔨 Currently, my Final Project is finalized - **SpotUp - Course Completion Project (TCC)**
 
 - 🏠 I’m Working **From Home**
 
