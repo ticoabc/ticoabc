@@ -5,7 +5,7 @@
 
 - 📚 I am currently studying Systems Development
 
-- 📚 I’m currently learning **Backend languages (Java and PHP)**
+- 📚 I’m currently learning **Backend language - (Java)**
 
 - 📚 Next I´will learning more **Backend languages (JavaScript, C#, Python, Ruby)**
  
