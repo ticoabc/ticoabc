@@ -7,7 +7,7 @@
 
 - 📚 I’m currently learning **Backend language - (Java)**
 
-- 📚 Next I´will learning more **Backend languages (JavaScript, C#, Python, Ruby)**
+- 📚 Next I´will learning more **Backend languages (PHP, JavaScript, C#, Python, Ruby)**
  
 - 🔨 Currently, my Final Project is finalized - **SpotUp - Course Completion Project (TCC)**
 
