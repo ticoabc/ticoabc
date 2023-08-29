@@ -9,7 +9,7 @@
 
 - 📚 Next I´will learning more **Backend languages (PHP, JavaScript, C#, Python, Ruby)**
  
-- 🔨 Currently, my Final Project is finalized - **SpotUp - Course Completion Project (TCC)**
+- 🔨 **SpotUp - Course Completion Project (TCC)**
 
 - 🏠 I’m Working **From Home**
 
