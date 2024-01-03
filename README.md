@@ -5,9 +5,9 @@
 
 - 📚 I am currently studying Systems Development (EAD) Etec Jorge Street
 
-- 📚 I’m currently learning **Backend language - (Java)**
+- 📚 I am currently studying TDD - Test-Driven Software Development (EAD) Coursera - Aeronautics Technological Institute
 
-- 📚 Next I´will learning more **Backend languages (PHP, JavaScript, C#, Python, Ruby)**
+- 📚 I’m currently learning **Backend language - (Java)**
  
 - 🔨 **SpotUp - Course Completion Project (TCC)**
 
