@@ -7,7 +7,7 @@
 
 - 📚 I am currently studying TDD - Test-Driven Software Development (EAD) Coursera - Aeronautics Technological Institute
 
-- 📚 I’m currently learning **Backend language - (Java)**
+- 📚 I am currently studying <a href="https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/" target="blank">O curso completo de Banco de Dados e SQL, sem mistérios! (EAD) Udemy</a>
  
 - 🔨 **SpotUp - Course Completion Project (TCC)**
 
