@@ -5,9 +5,9 @@
 
 - 📚 I am currently studying Systems Development (EAD) Etec Jorge Street
 
-- 📚 I am currently studying (BootCamp)<a href="https://soulcode.com/" target="blank"> Data Analysis Student at SoulCode</a>
-
 - 📚 I am currently studying <a href="https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/" target="blank">O curso completo de Banco de Dados e SQL, sem mistérios! (EAD) Udemy</a>
+
+- 📚 **Complete Course** (BootCamp)<a href="https://soulcode.com/" target="blank"> Data Analysis Student at SoulCode</a>
 
 - 📚 **Complete Course** <a href="https://www.coursera.org/?skipBrowseRedirect=true" target="blank">TDD - Test-Driven Software Development (EAD) Coursera - Aeronautics Technological Institute</a>
  
